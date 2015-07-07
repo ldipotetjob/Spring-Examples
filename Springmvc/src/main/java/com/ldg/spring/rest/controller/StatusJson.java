@@ -2,9 +2,6 @@ package com.ldg.spring.rest.controller;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 
-/**
- * Created by mohan.saravanan on 13/05/2014.
- */
 @JsonInclude(JsonInclude.Include.NON_NULL)
 public class StatusJson {
 

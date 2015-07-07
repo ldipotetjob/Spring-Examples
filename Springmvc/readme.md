@@ -1,6 +1,3 @@
-Spring MVC Showcase
--------------------
-Prueba de código servicio REST via spring mvc
 
 #para funcionar que necesitamos :
 
@@ -10,7 +7,7 @@ Prueba de código servicio REST via spring mvc
   - mvn clean install
   - mvn tomcat:run 
 
-#luego de ello intentar con los siguiente endpoints
+#luego de ello intentar con los siguientes endpoints
 http://localhost:8080/springmvc/mvc/status
 
 http://localhost:8080/springmvc/mvc/track?usr=cualquier_nombre_usuario
@@ -21,4 +18,5 @@ Este código no tiene derechos,puedes modificarlo y agregarlo en el sitio que es
 
 
 Somos : mojitoverde.blogspot.com visitanos
+
 We are : mojitoverde.blogspot.com visit us

@@ -13,9 +13,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import com.ldg.spring.rest.service.StatusService;
 import com.ldg.spring.rest.service.TrackJsonService;
 
-/**
- * Created by mohan.saravanan on 13/05/2014.
- */
 @Controller
 public class StatusController {
 

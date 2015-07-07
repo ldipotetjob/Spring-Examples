@@ -6,12 +6,12 @@
   - mvn clean install
   - mvn tomcat:run 
 
-# asi ha de estar formada la petición
+# así ha de estar formada la petición
 http://localhost:8080/RESTfulJson/rest/json/music/get
 
-# el puerto puede ser cambiado en el pom.xml al ogual que el Contentroot (RESTfulJson) 
+# el puerto puede ser cambiado en el pom.xml al igual que el Contentroot (RESTfulJson) 
 
-Estos son ejemplos muy simples,tomados de cualquier site y con una refactorizacion muy simple que pueden incluir :
+Estos son ejemplos muy simples,tomados de cualquier site y con una refactorización puede incluir:
 
 - modificación en los pom para cambiar el tipo y/o modo de despliegue 
 - modificación de alguna cabecera de xml para que funcionara
@@ -21,4 +21,5 @@ El cambio de los paquetes se debe a que exista una uniformidad con los ppaquetes
 
 
 Somos : mojitoverde.blogspot.com visitanos
+
 We are : mojitoverde.blogspot.com visit us
