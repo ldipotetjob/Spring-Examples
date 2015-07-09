@@ -17,9 +17,6 @@ import collection.JavaConversions._
 @Autowired
 class GreetingController {
 
-    private val template = "Hello, %s!"
-    private var counter: AtomicInteger = new AtomicInteger
-
     @ResponseBody
     @RequestMapping(value=Array("/greeting"),method = Array(RequestMethod.GET))
     def greeting(@RequestParam(value="name", required=false, defaultValue="World") name: String) : java.util.List[Greeting] = {
