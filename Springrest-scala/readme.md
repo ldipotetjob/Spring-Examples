@@ -14,7 +14,6 @@ el puerto puede ser cambiado en el pom.xml al igual que el Contentroot (springre
 Este código no tiene derechos,puedes modificarlo y agregarlo en el sitio que estimes .
 
 
-Somos : mojitoverde.blogspot.com visitanos
+Somos: http://mojitoverde.blogspot.com visitanos
 
-We are : mojitoverde.blogspot.com visit us
 
