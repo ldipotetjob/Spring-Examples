@@ -15,6 +15,4 @@ Nota: en lugar de 1-) puedes también ejecutar :
 
 Este codódigo no tiene derechos,puedes modificarlo y agregarlo en el sitio que estimes .
 
-Somos : mojitoverde.blogspot.com visitanos
-
-We are : mojitoverde.blogspot.com visit us
+Somos: http://mojitoverde.blogspot.com visitanos
