@@ -17,5 +17,5 @@ http://localhost:8080/springmvc/mvc/track?usr=cualquier_nombre_usuario
 Este código no tiene derechos,puedes modificarlo y agregarlo en el sitio que estimes .
 
 
-Somos: http://mojitoverde.blogspot.com visitanos
+http://mojitoverde.blogspot.com visitanos
 
