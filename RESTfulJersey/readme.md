@@ -20,5 +20,5 @@ Estos son ejemplos muy simples,tomados de cualquier site y con una refactorizaci
 El cambio de los paquetes se debe a que exista una uniformidad con los ppaquetes ya creados en nuestro site.
 
 
-Somos: http://mojitoverde.blogspot.com visitanos
+http://mojitoverde.blogspot.com visitanos
 
